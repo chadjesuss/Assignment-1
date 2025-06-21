@@ -1,0 +1,22 @@
+DOCUMENTATION
+
+1. HTML Elements:
+   - <h1> to <h6>: Used to define headings from most to least important.
+   - <ul>/<ol>: Lists used for unordered/ordered items.
+   - <img>: Embeds an image.
+   - <a>: Hyperlinks to navigate between or outside pages.
+   - <table>: Displays tabular data.
+   - <form>: Collects user inputs.
+   - <input>, <textarea>: Input fields.
+   - <header>, <main>, <section>, <footer>: Semantic layout elements.
+
+2. Input Type Choices:
+   - text: For general names.
+   - email: Ensures email format is entered.
+   - tel: Suitable for phone number input.
+   - date, range, checkbox, radio: Provides various interaction methods.
+   - pattern: Used for validating specific input formats.
+
+3. Navigation Structure:
+   - Each page uses a <nav> with <a> links to other pages.
+   - Ensures easy navigation and user-friendly structure.
